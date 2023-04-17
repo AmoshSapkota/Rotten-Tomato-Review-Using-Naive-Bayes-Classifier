@@ -1,4 +1,4 @@
-Rotten Tomatoes Reviews Classification Using Naive Bayes Algorithm
+Naive Bayes Classifier for Rotten Tomatoes Reviews
 
 How to Run this Python Code
 
